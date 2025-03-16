@@ -1,0 +1,1 @@
+# hass-dynamic-hostname
